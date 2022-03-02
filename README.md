@@ -1,5 +1,5 @@
 # HackerRank Solutions
-#LeetCode Solutions
+# LeetCode Solutions
 <br/>
 
 https://www.hackerrank.com/sulagnadutta65
