@@ -9,6 +9,3 @@ https://leetcode.com/sulagnadutta65
 <br/>
 
 
-Author:
-<br/>
-Sulagna Dutta Roy
