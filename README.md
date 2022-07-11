@@ -1,2 +1,1 @@
-# HackerRank Solutions
-# LeetCode Solutions
+
